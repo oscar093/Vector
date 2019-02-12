@@ -2,7 +2,7 @@
  * Vector.h
  *
  *  Created on: Nov 21, 2018
- *      Author: Oscar Arréhn Ågren
+ *      Author: Oscar ArrÃ©hn Ã…gren
  */
 
 #ifndef VECTOR_H_
